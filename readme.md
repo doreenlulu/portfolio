@@ -45,7 +45,6 @@
 ### Get to know me
 
 💬 I'm an expert on **I am a full-stack developer with two years experience in softwarre development.**
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 
 📄 Know about my experiences [through my CV](about/resume.md)
 
