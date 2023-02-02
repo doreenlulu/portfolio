@@ -53,7 +53,7 @@
 
 ### Interested ?
 
-📫 Reach me on **doreenlulu972gmail.com**
+📫 Reach me on **doreenlulu97@gmail.com**
 
 <br />
 
