@@ -44,7 +44,7 @@
 
 ### Get to know me
 
-💬 I'm an expert on **I am a full-stack developer with two years experience in softwarre development.**
+💬 I'm an expert on **I am a full-stack developer with two years experience in software development.**
 
 📄 Know about my experiences [through my CV](about/resume.md)
 
